@@ -1,7 +1,3 @@
-# Joseph Ryan Longnanon
-
-
-
 Professional Summary
 
 Seasoned IT professional with over 15 years of progressive experience in network operations, security 
