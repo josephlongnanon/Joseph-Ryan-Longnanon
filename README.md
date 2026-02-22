@@ -1,6 +1,6 @@
 # Joseph Ryan Longnanon
 
-This is my Online Professional Portfolio
+
 
 Professional Summary
 
