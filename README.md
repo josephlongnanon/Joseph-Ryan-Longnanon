@@ -1,5 +1,6 @@
 # my-itprofessionalwebsite
-This is my online professional portfolio
+
+This is my Online Professional Portfolio
 
 Professional Summary
 
